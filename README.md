@@ -4,7 +4,10 @@
 ###关于墙：
 使用Google的正确姿势：使用shadowsock：
 账号这里找：https://shadow.bydisk.com/auth/login
-软件在文档里：shadowsock.zip
+在这里下,点releases：
+
+Windows版：[windows版](https://github.com/shadowsocks/shadowsocks-windows)
+android版：[Android版](https://github.com/shadowsocks/shadowsocks-android)
 
 
 
