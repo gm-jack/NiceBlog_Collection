@@ -1,19 +1,12 @@
 # NiceBlog\_Collection
 
-### 优质博文收集
+### 主要是自己看到的一些不错的 优质博文收集。有好的也可以提Issues，来添加
 
-### 挖坑
+使用Google的正确姿势：使用shadowsock：
+账号这里找：https://shadow.bydisk.com/auth/login
+软件在文档里：shadowsock.zip
 
-### 0.绕不开的面试笔试
 
-1. [收集很全的android面试、笔试题，涵盖android、java、数据结构](https://github.com/Mr-YangCheng/ForAndroidInterview)
 
-### 1.常见的名词
-
-* A.
-* B.
-* C.
-* R.
-  * RESTful简单介绍；
 
 
